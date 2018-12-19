@@ -18,7 +18,12 @@
 , "isMoved":false
 }
 
- 
+ ,
+
+{
+"name":"Zee Tamil","icon":"http:\/\/akamai.dittotv.vidz.zeecdn.com\/secure\/draco\/Shows\/Ditto_new_logos_oct\/115_logos\/Zee-Tamil-115x95.jpg","link":"tulip\/ditto.m3u8?ch=zee-tamil"
+, "isMoved":true
+}
 
 
 
