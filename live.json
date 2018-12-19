@@ -11,7 +11,16 @@
 {
 "name":"THANTHI TV","icon":"http:\/\/cdn.zecast.com\/multichannel\/upload\/channel\/1510142216Thanthitv.png","link":"http:\/\/thanthitv.live-s.cdn.bitgravity.com\/cdn-live\/_definst_\/thanthitv\/live\/thanthitv.smil\/chunklist_w1662346550_b500000.m3u8"
 , "isMoved":false
+},
+
+{
+"name":"ISAI ARUVI TV","icon":"http:\/\/cdn.zecast.com\/multichannel\/upload\/channel\/1510142216Thanthitv.png","link":"http:\/\/367449830.r.cdnsun.net\/367449830\/_definst_\/isaiaruvi/index.m3u8"
+, "isMoved":false
 }
+
+
+
+
 
 ]
 
